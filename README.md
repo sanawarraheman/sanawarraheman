@@ -1,6 +1,6 @@
 [![masterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Sanawar Raheman</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate DATA ANALYTICS from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanawar-raheman" alt="sanawar-raheman" /></a> </p>
